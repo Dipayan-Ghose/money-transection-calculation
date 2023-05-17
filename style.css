@@ -1,0 +1,42 @@
+.epColor{
+    color: #fbfafb;
+}
+.background{
+    background-color:  #9ED2C6;
+}
+.cardColor{
+    background-color: #3399b7;
+    /* background-image: url(img/img-2.jpg); */
+}
+.Width{
+    width:400px;
+}
+
+/* Homepage */
+
+.bgDeposit{
+    background-color: #00A8B5;
+}
+.bgWithdraw{
+    background-color: #A82FFC;
+}
+#btnDeposit:hover{
+     background-color: #FFC23C;
+}
+#btnWithdraw:hover{
+    background-color: #C21010;
+}
+.bgAvailable{
+    background-color: #6EBF8B;
+}
+.bgDepositShow{
+    background-color: #F8B400;
+}
+.bgWithdrawShow{
+    background-color: #FF5B00;
+}
+.backgroundImg{
+    background-image: url(img/img-3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
